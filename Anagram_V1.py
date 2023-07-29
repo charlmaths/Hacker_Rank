@@ -32,5 +32,3 @@ def anagram_func(string_1, string_2):
 
 
 anagram_func("silent", "lisTeN")
-
-
